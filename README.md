@@ -5,6 +5,10 @@ The Gas Demand API provides endpoints to retrieve gas demand data and forecast i
 - Despite being harder to deploy, Python still remains the best langauge for machine learning packages.
 - Function was deployed in a Dockerised container and exposed with a flask API.
 
+You can find this python project here: 
+
+https://github.com/cognitivebusiness/cognitive-assistant-python
+
 ### Base URL 
 ``` 
 http://localhost:3001/api/v1/
