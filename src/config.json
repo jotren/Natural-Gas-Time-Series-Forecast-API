@@ -1,0 +1,5 @@
+{
+    "gas_demand_data_directory": "C:/projects/node/Gas-Demand-Historic-Forecast-API/flat-files/gasDemandData",
+    "stormglass_data_directory": "C:/projects/node/Gas-Demand-Historic-Forecast-API/flat-files/stormglassData",
+    "weather_data_grid_filepath": "C:/projects/node/Gas-Demand-Historic-Forecast-API/flat-files/gridMapping/grid-mapping.csv"
+  }

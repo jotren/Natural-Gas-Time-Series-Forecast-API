@@ -1,0 +1,8 @@
+dist/
+node_modules/
+flat-files/
+applicationNotes.md
+gas-demand-api-database.db
+*.sqlite
+build/
+.env

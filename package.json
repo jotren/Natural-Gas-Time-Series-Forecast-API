@@ -1,0 +1,29 @@
+{
+  "name": "gas-demand-historic-forecast-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node ./build/app.js",
+    "run": "tsc",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "math.js": "^1.1.46",
+    "simple-statistics": "^7.8.3",
+    "soap": "^1.0.0",
+    "sqlite3": "^5.1.6",
+    "typeorm": "^0.3.17",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "csv-parser": "^3.0.0"
+  }
+}
