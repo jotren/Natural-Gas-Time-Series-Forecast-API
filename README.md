@@ -7,7 +7,7 @@ The Gas Demand API provides endpoints to retrieve gas demand data and forecast i
 
 You can find this python project here: 
 
-https://github.com/cognitivebusiness/cognitive-assistant-python
+https://github.com/jotren/Natural-Gas-Time-Series-Forecast
 
 ### Base URL 
 ``` 
